@@ -79,5 +79,7 @@ Define kinds of mental disease to detect
 
 **SYMP context -> input: context category + symptoms**
 
+---
+
 ### Evaluation
 ![Evaluation](https://github.com/mingu0215/24-2-Capstone-Design-Project/blob/main/Evaluation.png)
