@@ -70,7 +70,7 @@ Define kinds of mental disease to detect
 - symptom
 - symptom_uncertainty
 
-### [MDD Model]
+### MDD Model
 **BERT post -> input: post text**
 
 **BERT context -> input: context evidence + symptoms**
