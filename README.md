@@ -16,9 +16,10 @@ This is overview of our project
   - Calcuate weights by combining word frequency and TF-IDF using n-gram, with the top 3% weight as threshold(정신질환 증상 추출 및 유형 분류.ipynb)
 
 2. Naver Knowledge-iN posts
-  - Collecting [post questions&physicians answers] in the mental health category
+  - Collecting post questions&physicians answers in the mental health category
   - Filtering only sentences containing keyword combinations in top 3% symptom dictionary to train the model
-(네이버 지식인 증상 문장 선별.ipynb)
+  
+  (네이버 지식인 증상 문장 선별.ipynb)
 ![Filtering sentences](https://github.com/mingu0215/24-2-Capstone-Design-Project/issues/3#issue-2765468504)
 
 For efficient filtering, annotation tasks were performed.
