@@ -16,6 +16,7 @@ This is overview of our project
 2. Naver Knowledge-iN posts
   - Collecting [post questions&physicians answers] in the mental health category
   - Filtering only sentences containing keyword combinations in top 3% symptom dictionary to train the model(네이버 지식인 증상 문장 선별.ipynb)
+![이미지 설명](https://github.com/mingu0215/24-2-Capstone-Design-Project/issues/3)
 
 
 
